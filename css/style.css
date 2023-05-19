@@ -1,0 +1,26 @@
+.n_tbdr{
+    border: 1px dashed black;
+}
+header{
+    height: 80px;
+    width: 97.7%;
+    margin: auto;
+}
+main{
+    height: 2570px;
+}
+.mt-5.n_mt-5{
+    margin-top: 4.8rem !important;
+} 
+.footer1{
+    height: 114px;
+}
+.footer2{
+    height: 1436px;
+}
+.footer3{
+    height: 300px;
+}
+.footer4{
+    height: 100px;
+}
