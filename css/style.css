@@ -3,8 +3,20 @@
 }
 header{
     height: 80px;
-    width: 97.7%;
+    width: 98%;
     margin: auto;
+}
+ul>li>a:hover{
+    background-color: #EDEDED;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.n_menu>li:hover ul{
+    display: block;
+}
+.n_submenu{
+    width: 115px;
+    display: none;
 }
 main{
     height: 2570px;
